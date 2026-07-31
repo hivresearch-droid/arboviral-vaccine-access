@@ -1,0 +1,11 @@
+﻿Decision domain,Analytical decision,Rationale
+Primary jurisdiction scope,195 sovereign states,Provides a stable policy-unit denominator and avoids mixing sovereign states with dependent territories.
+Secondary jurisdiction scope,249 countries and territories,Permits sensitivity analysis using the broader territorial dataset.
+Assessment cutoff,6 May 2026,"Aligns country classifications, vaccine-access information, and the preserved source datasets included in this workbook."
+Unit of analysis,Country-virus record,"Each sovereign state was assessed independently for DENV, CHIKV, JEV, and YFV."
+Weighting,"No population, burden, or eligibility weighting in the primary analysis","The estimand is the proportion of jurisdictions in each category, not the proportion of people vaccinated or protected."
+Source hierarchy,National regulatory and public-health authorities; WHO; regional public-health agencies; peer-reviewed literature; manufacturer information as supplementary evidence,"Prioritises authoritative, jurisdiction-specific, and directly relevant evidence."
+Conflicting evidence,"The most conservative classification supported by the available evidence was retained, and uncertainty was recorded where applicable.","Reduces overstatement when sources differ in recency, scope, or terminology."
+Vaccine-access interpretation,"Regulatory approval, market availability, programme deployment, eligibility, and coverage were treated as distinct dimensions.",Prevents legal authorisation from being conflated with practical access or population protection.
+Coverage,Programme presence was not interpreted as vaccination coverage.,"Introduction of a programme does not establish uptake, completion, or immunity."
+Vector classification,Retain Aedes and Culex categories as ecological covariates and provide a separate Vector_Data sheet with explicit source IDs and linkage limitations.,Avoids conflating vector presence with virus circulation while preserving the country/territory information used in the maps.

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and the associated manuscript."
+title: "Supplementary Dataset S1: Country-level arboviral transmission and vaccine-access classifications"
+type: dataset
+version: "1.0"
+date-released: "2026-07-31"
+authors:
+  - family-names: "Tee"
+    given-names: "Kok Keng"
+  - family-names: "Mu"
+    given-names: "Dongkui"
+  - family-names: "Wang"
+    given-names: "Binghui"
+  - family-names: "Xia"
+    given-names: "Xueshan"
+abstract: >-
+  Country-level classifications of arboviral transmission, vector occurrence,
+  regulatory approval, market availability, programme implementation, and
+  evidence linkage for dengue, chikungunya, Japanese encephalitis, and yellow fever.
+keywords:
+  - arbovirus
+  - vaccine access
+  - dengue
+  - chikungunya
+  - Japanese encephalitis
+  - yellow fever
+  - global health
